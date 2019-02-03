@@ -2,7 +2,7 @@
 
 ## Work
 
-📝 Technical Writer @ Google Cloud Platform ☁️
+📝 Technical Writer for [Cloud Spanner](https://cloud.google.com/spanner/docs/) on [Google Cloud Platform](https://cloud.google.com) ☁️
 
 ## Play
 
