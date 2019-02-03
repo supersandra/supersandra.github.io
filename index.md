@@ -6,18 +6,13 @@
 
 ## Play
 
-🎤 Musician 🎵
-
-🎲 Gamer 🎮
-
-✂️ Maker 👗
-
-😻 Cat lover 🐈
+- 🎤 Musician 🎵
+- 🎲 Gamer 🎮
+- ✂️ Maker 👗
+- 😻 Cat lover 🐈
 
 ## Find me
 
-[Medium](https://medium.com/@supersandra)
-
-[Twitter](https://twitter.com/sandra_codes)
-
-[LinkedIn](https://linkedin.com/in/write-sandra)
+- [Medium](https://medium.com/@supersandra)
+- [Twitter](https://twitter.com/sandra_codes)
+- [LinkedIn](https://linkedin.com/in/write-sandra)
