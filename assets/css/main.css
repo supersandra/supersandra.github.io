@@ -23,6 +23,9 @@
 	border-bottom:0 !important;
 }
 
+#header .inner img {
+	background: rgb(255, 255, 255, .5);
+}
 
 /*
 	Photon by HTML5 UP
